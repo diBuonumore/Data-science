@@ -1,6 +1,6 @@
-# Data-science
+## Data-science
 
-# Project 1 - Australian rainfall prediction
+### Project 1 - Australian rainfall prediction
 
 Goal: To predict the next-day rain based on other atmospheric features
 
@@ -74,7 +74,20 @@ Australia is prone to natural disasters, including tropical cyclones in the nort
 
 To conclude: Australia's climate is highly diverse and can be broadly classified into several distinct regions based on precipitation patterns
 
+### Project 2 - The MNIST dataset in Python
+MNIST stands for Modified National Institute of Standards and Technology database. It consists of 70.000 handwritten digits from 0-9, each represented as a 28x28 grayscale image (all data has the same, fixed size). 
 
+Goal: to write an algorithm that will detect which digit is written
+
+Steps: 
+1. Set random seeds for reproducibility
+2. Load the data + visualize it
+3. Shuffle data
+4. Split data into training, validation and test sets
+5. Scale the data
+6. Create a model
+7. Train and test the model
+8. Fiddle with different hyperparameters 
 
 
 
