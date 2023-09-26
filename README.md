@@ -57,13 +57,21 @@ Why do we measure "clouds", "wind direction","humidity","temperature" at 9am and
 It is also important to become acquainted with Australian climate especially in respect of rainfall before we will immerse in the analysis of our dataset. Here are some key aspects:
 
 Australia is located in the Southern Hemisphere and is surrounded by oceans (Southern Ocean,Pacific Ocean, Indian Ocean) and seas (Timor Sea,Arafura Sea,Coral Sea, Tasman Sea).
+
 Dry and arid regions particularly in the central and western regions. These areas experience hot and dry conditions for much of the year, with limited rainfall. They are characterized by vast deserts, such as the Simpson Desert and the Great Victoria Desert.
+
 Northern parts of Australia have tropical / subtropical climate - wet/dry seasons; monsoon seasons (wet) - from November to April,heavy rainfall,tropical cyclones; dry seasons - from May to October, lower humidity, clear skies
+
 Southern / Southeastern regions have temparate climate - mild winters, moderate summers, rainfall throughout the year
+
 Southern / Southwestern parts have mediterranean climate - mild, wet winters and hot,dry summers
+
 Apline climate in southeastern regions (particularly the Australian Alps) - cold winters,snowfall,cool summers, higher rainfall due to orographic effects(rainfall caused by the lifting of moist air over mountains)
+
 Coastale areas have mild temperatures and high humidity
+
 Australia is prone to natural disasters, including tropical cyclones in the north and bushfires in various parts of the country.
+
 To conclude: Australia's climate is highly diverse and can be broadly classified into several distinct regions based on precipitation patterns
 
 
