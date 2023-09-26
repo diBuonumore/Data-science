@@ -11,7 +11,7 @@ Source: https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-d
 What is included in the project? 
 1. The map of Australia with data points
 2. Preprocessing - separate files for categorical and numerical data with EDA 1D + merged 
-3. EDA 2D + shapefiles (those I had wanted to use but I encountered the problem which after few attempts I could not handle)
+3. EDA 2D 
 4. ML - logistic regression 
 
 Data Description:
